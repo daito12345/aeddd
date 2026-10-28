@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ôn tập Hóa 12 - Khoanh đáp án</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-icon">H₂</span>
+        <div><strong>HÓA 12</strong><small>Ôn tập giữa học kì I</small></div>
+      </div>
+      <div class="top-actions">
+        <button id="resetBtn" class="btn btn-light">Làm lại</button
+        ><button id="submitBtn" class="btn btn-primary">
+          Tổng kết bài làm
+        </button>
+      </div>
+    </header>
+    <main class="layout">
+      <section class="main-panel">
+        <div class="hero">
+          <div>
+            <span class="eyebrow">BỘ ĐỀ ÔN TẬP 2026–2027</span>
+            <h1>Khoanh đáp án trực tuyến</h1>
+            <p>
+              Chọn đáp án ngay trên web. Bài làm được lưu trên trình duyệt của
+              máy này.
+            </p>
+          </div>
+          <div class="hero-mark">⚗️</div>
+        </div>
+        <div class="section-tabs">
+          <button class="tab active" data-section="mc">
+            Phần 1 · Trắc nghiệm
+          </button>
+          <button class="tab" data-section="tf">Phần 2 · Đúng / Sai</button>
+        </div>
+        <div class="progress-wrap">
+          <div class="progress-label">
+            <span id="progressText">Đã trả lời 0 câu</span
+            ><span id="progressPercent">0%</span>
+          </div>
+          <div class="progress"><div id="progressBar"></div></div>
+        </div>
+        <div id="questionArea"></div>
+        <div class="question-nav">
+          <button id="prevBtn" class="btn btn-light">← Câu trước</button
+          ><span id="positionText">Câu 1</span
+          ><button id="nextBtn" class="btn btn-primary">Câu tiếp →</button>
+        </div>
+      </section>
+      <aside class="side-panel">
+        <div class="side-card">
+          <h2>Danh sách câu</h2>
+          <p class="muted">Bấm số câu để chuyển nhanh.</p>
+          <div id="questionGrid" class="question-grid"></div>
+          <div class="legend">
+            <span><i class="dot done"></i> Đã chọn</span
+            ><span><i class="dot"></i> Chưa chọn</span>
+          </div>
+        </div>
+        <div class="side-card summary-card">
+          <h2>Tiến độ của bạn</h2>
+          <div class="summary-number" id="answeredCount">0</div>
+          <p class="muted">câu đã trả lời</p>
+          <div class="summary-line">
+            <span>Phần 1</span><strong id="mcCount">0 / 93</strong>
+          </div>
+          <div class="summary-line">
+            <span>Phần 2</span><strong id="tfCount">0 / 40 ý</strong>
+          </div>
+        </div>
+        <div class="notice">
+          ℹ️
+          <span
+            >Đây là bản làm bài để khoanh chọn. Đề gốc không kèm đáp án chuẩn
+            nên trang chưa tự chấm đúng/sai; nút tổng kết sẽ thống kê câu đã làm
+            và câu còn bỏ trống.</span
+          >
+        </div>
+      </aside>
+    </main>
+    <div
+      id="resultModal"
+      class="modal hidden"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="resultTitle"
+    >
+      <div class="modal-card">
+        <button id="closeModal" class="close">×</button
+        ><span class="eyebrow">TỔNG KẾT</span>
+        <h2 id="resultTitle">Bài làm của bạn</h2>
+        <div id="resultBody"></div>
+        <button id="continueBtn" class="btn btn-primary full">
+          Quay lại bài làm
+        </button>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

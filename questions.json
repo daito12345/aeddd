@@ -1,0 +1,2257 @@
+{
+  "title": "Đề cương ôn tập giữa học kì I – Hóa 12 (2026–2027)",
+  "multipleChoice": [
+    {
+      "number": 1,
+      "text": "Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chất béo là triester của glycerol với acid"
+        },
+        {
+          "key": "B",
+          "text": "Chất béo là triester của glycerol với acid vô cơ"
+        },
+        {
+          "key": "C",
+          "text": "Chất béo là triester của glycerol với acid béo"
+        },
+        {
+          "key": "D",
+          "text": "Chất béo là triester của alcohol với acid béo"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Chất nào sau đây là chất béo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Triolein"
+        },
+        {
+          "key": "B",
+          "text": "Methyl acetate"
+        },
+        {
+          "key": "C",
+          "text": "Cellulose"
+        },
+        {
+          "key": "D",
+          "text": "Glycerol"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Hợp chất nào dưới đây thuộc loại ester?",
+      "options": [
+        {
+          "key": "A",
+          "text": "HOCH2CH2CHO"
+        },
+        {
+          "key": "B",
+          "text": "CH3CH2CH2COOH"
+        },
+        {
+          "key": "C",
+          "text": "HOCH2COCH3"
+        },
+        {
+          "key": "D",
+          "text": "CH3CH2COOCH3"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Benzyl acetate là ester có mùi thơm của hoa nhài. Công thức của benzyl acetate là?",
+      "options": [
+        {
+          "key": "A",
+          "text": "C2H5COOC6H5"
+        },
+        {
+          "key": "B",
+          "text": "CH3COOC6H5"
+        },
+        {
+          "key": "C",
+          "text": "C6H5COOCH3"
+        },
+        {
+          "key": "D",
+          "text": "CH3COOCH2C6H5"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Tên gọi của ester CH3COOCH3 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "ethyl acetate"
+        },
+        {
+          "key": "B",
+          "text": "methyl propionate"
+        },
+        {
+          "key": "C",
+          "text": "methyl acetate"
+        },
+        {
+          "key": "D",
+          "text": "ethyl formate"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Cho ester có công thức cấu tạo: CH2=C(CH3)COOCH3. Tên gọi của ester là",
+      "options": [
+        {
+          "key": "A",
+          "text": "methyl acrylate"
+        },
+        {
+          "key": "B",
+          "text": "methyl methacrylate"
+        },
+        {
+          "key": "C",
+          "text": "ethyl methacrylic"
+        },
+        {
+          "key": "D",
+          "text": "methyl acrylic"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "Ethyl acetate có công thức hóa học là",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3COOCH3"
+        },
+        {
+          "key": "B",
+          "text": "CH3COOC2H5"
+        },
+        {
+          "key": "C",
+          "text": "HCOOCH3"
+        },
+        {
+          "key": "D",
+          "text": "HCOOC2H5"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Ethyl propionate là ester có mùi thơm của dứa. Công thức của ethyl propionate là",
+      "options": [
+        {
+          "key": "A",
+          "text": "HCOOC2H5"
+        },
+        {
+          "key": "B",
+          "text": "C2H5COOC2H5"
+        },
+        {
+          "key": "C",
+          "text": "C2H5COOCH3"
+        },
+        {
+          "key": "D",
+          "text": "CH3COOCH3"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "Phân tử khối của ethyl acetate là",
+      "options": [
+        {
+          "key": "A",
+          "text": "86"
+        },
+        {
+          "key": "B",
+          "text": "60"
+        },
+        {
+          "key": "C",
+          "text": "74"
+        },
+        {
+          "key": "D",
+          "text": "88"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Số nguyên tử carbon trong phân tử palmitic acid là",
+      "options": [
+        {
+          "key": "A",
+          "text": "17"
+        },
+        {
+          "key": "B",
+          "text": "18"
+        },
+        {
+          "key": "C",
+          "text": "19"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Số nguyên tử hydrogen trong phân tử oleic acid là",
+      "options": [
+        {
+          "key": "A",
+          "text": "33"
+        },
+        {
+          "key": "B",
+          "text": "36"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "34"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Công thức của tristearin là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(C2H5COO)3C3H5"
+        },
+        {
+          "key": "B",
+          "text": "(C17H35COO)3C3H5"
+        },
+        {
+          "key": "C",
+          "text": "(CH3COO)3C3H5"
+        },
+        {
+          "key": "D",
+          "text": "(HCOO)3C3H5"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text": "Công thức của triolein là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(C17H33COO)3C3H5"
+        },
+        {
+          "key": "B",
+          "text": "(HCOO)3C3H5"
+        },
+        {
+          "key": "C",
+          "text": "(C2H5COO)3C3H5"
+        },
+        {
+          "key": "D",
+          "text": "(CH3COO)3C3H5"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Chất nào sau đây thuộc loại acid béo omega-3?",
+      "options": [],
+      "note": "Cần đối chiếu hình ảnh/nội dung câu hỏi trong đề gốc."
+    },
+    {
+      "number": 15,
+      "text": "Chất béo có công thức nào sau đây là chất rắn ở điều kiện thường?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(C17H31COO)3C3H5"
+        },
+        {
+          "key": "B",
+          "text": "(C17H29COO)3C3H5"
+        },
+        {
+          "key": "C",
+          "text": "(C15H31COO)3C3H5"
+        },
+        {
+          "key": "D",
+          "text": "(C17H33COO)3C3H5"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text": "So với các acid, alcohol có cùng số nguyên tử carbon thì ester có nhiệt độ sôi",
+      "options": [
+        {
+          "key": "A",
+          "text": "thấp hơn do khối lượng phân tử của ester nhỏ hơn nhiều"
+        },
+        {
+          "key": "B",
+          "text": "thấp hơn do giữa các phân tử ester không tồn tại liên kết hydrogen"
+        },
+        {
+          "key": "C",
+          "text": "cao hơn do giữa các phân tử ester có liên kết hydrogen bền vững"
+        },
+        {
+          "key": "D",
+          "text": "cao hơn do khối lượng phân tử của ester lớn hơn nhiều"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Trong số các chất dưới đây, chất có nhiệt độ sôi cao nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "C2H5OH"
+        },
+        {
+          "key": "B",
+          "text": "HCOOCH3"
+        },
+        {
+          "key": "C",
+          "text": "CH3COOH"
+        },
+        {
+          "key": "D",
+          "text": "CH3CHO"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text": "Cho các chất sau: CH3OH (1); CH3COOH (2); HCOOC2H5 (3). Thứ tự nhiệt độ sôi giảm dần là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(1); (2); (3)"
+        },
+        {
+          "key": "B",
+          "text": "(3); (1); (2)"
+        },
+        {
+          "key": "C",
+          "text": "(2); (3); (1)"
+        },
+        {
+          "key": "D",
+          "text": "(2); (1); (3)"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Dãy các chất nào sau đây được sắp xếp theo chiều nhiệt độ sôi tăng dần?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3COOC2H5, CH3CH2CH2OH, CH3COOH"
+        },
+        {
+          "key": "B",
+          "text": "CH3COOH, CH3CH2CH2OH, CH3COOC2H5"
+        },
+        {
+          "key": "C",
+          "text": "CH3COOH, CH3COOC2H5, CH3CH2CH2OH"
+        },
+        {
+          "key": "D",
+          "text": "CH3CH2CH2OH, CH3COOH, CH3COOC2H5"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Ester nào sau đây tác dụng với dung dịch NaOH thu được sodium acetate?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3COOC2H5"
+        },
+        {
+          "key": "B",
+          "text": "C2H5COOCH3"
+        },
+        {
+          "key": "C",
+          "text": "HCOOCH3"
+        },
+        {
+          "key": "D",
+          "text": "HCOOC2H5"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text": "Ester nào sau đây tác dụng với NaOH thu được ethyl alcohol?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3COOC2H5"
+        },
+        {
+          "key": "B",
+          "text": "CH3COOC3H7"
+        },
+        {
+          "key": "C",
+          "text": "C2H5COOCH3"
+        },
+        {
+          "key": "D",
+          "text": "HCOOCH3"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text": "Thuỷ phân ester có công thức phân tử C4H8O2 (với xúc tác acid), thu được 2 sản phẩm X và Y. Từ X có thể điều chế trực tiếp ra Y; số nguyên tử C trong X và Y là như nhau. Vậy chất X là",
+      "options": [
+        {
+          "key": "A",
+          "text": "methyl alcohol"
+        },
+        {
+          "key": "B",
+          "text": "ethyl acetate"
+        },
+        {
+          "key": "C",
+          "text": "formic acid"
+        },
+        {
+          "key": "D",
+          "text": "ethyl alcohol"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Một ester có công thức phân tử C4H6O2, khi thuỷ phân trong môi trường acid thu được acetaldehyde. Công thức cấu tạo thu gọn của ester đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH2=CHCOOCH3"
+        },
+        {
+          "key": "B",
+          "text": "CH3COOCH=CH2"
+        },
+        {
+          "key": "C",
+          "text": "HCOOC(CH3)=CH2"
+        },
+        {
+          "key": "D",
+          "text": "HCOOCH=CH-CH3"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text": "Xà phòng hóa ester nào sau đây thu được cả hai sản phẩm đều có khả năng tham gia phản ứng tráng bạc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vinyl acetate"
+        },
+        {
+          "key": "B",
+          "text": "Allyl formate"
+        },
+        {
+          "key": "C",
+          "text": "Ethyl acrylate"
+        },
+        {
+          "key": "D",
+          "text": "Vinyl formate"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Thủy phân hoàn toàn hỗn hợp methyl formate và ethyl formate trong dung dịch NaOH, thu được sản phẩm gồm",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 muối và 1 alcohol"
+        },
+        {
+          "key": "B",
+          "text": "2 muối và 2 alcohol"
+        },
+        {
+          "key": "C",
+          "text": "1 muối và 2 alcohol"
+        },
+        {
+          "key": "D",
+          "text": "2 muối và 1 alcohol"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text": "Ester X có công thức phân tử C4H8O2. Thủy phân X trong dung dịch H2SO4 loãng, đun nóng, thu được sản phẩm gồm propionic acid và chất hữu cơ Y. Công thức của Y là",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3OH"
+        },
+        {
+          "key": "B",
+          "text": "C2H5OH"
+        },
+        {
+          "key": "C",
+          "text": "CH3COOH"
+        },
+        {
+          "key": "D",
+          "text": "HCOOH"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Ester X có công thức phân tử C4H8O2. Thủy phân X trong dung dịch H2SO4 loãng, đun nóng, thu được sản phẩm gồm ethyl alcohol và chất hữu cơ Y. Công thức của Y là",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3OH"
+        },
+        {
+          "key": "B",
+          "text": "CH3COOH"
+        },
+        {
+          "key": "C",
+          "text": "C2H5COOH"
+        },
+        {
+          "key": "D",
+          "text": "HCOOH"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text": "Cho sơ đồ chuyển hóa sau:",
+      "options": [
+        {
+          "key": "A",
+          "text": "HCOOCH2CH2CH3"
+        },
+        {
+          "key": "B",
+          "text": "C2H5COOCH3"
+        },
+        {
+          "key": "C",
+          "text": "CH3COOC2H5"
+        },
+        {
+          "key": "D",
+          "text": "CH3CH2CH2COOH"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Chất X có công thức phân tử C4H8O2. Cho X tác dụng với dung dịch NaOH đun nóng, thu được chất Y có công thức phân tử C3H5O2Na. X có công thức cấu tạo là",
+      "options": [
+        {
+          "key": "A",
+          "text": "HCOOCH2CH2CH3"
+        },
+        {
+          "key": "B",
+          "text": "HCOOCH(CH3)2"
+        },
+        {
+          "key": "C",
+          "text": "CH3COOC2H5"
+        },
+        {
+          "key": "D",
+          "text": "C2H5COOCH3"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text": "Đặc điểm chung của phản ứng thủy phân chất béo trong môi trường acid là",
+      "options": [
+        {
+          "key": "A",
+          "text": "phản ứng xà phòng hóa"
+        },
+        {
+          "key": "B",
+          "text": "phản ứng không thuận nghịch"
+        },
+        {
+          "key": "C",
+          "text": "phản ứng cho - nhận electron"
+        },
+        {
+          "key": "D",
+          "text": "phản ứng thuận nghịch"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text": "Thủy phân hoàn toàn một lượng chất béo trong dung dịch NaOH (vừa đủ), thu được 1 mol glycerol và",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 mol muối của acid béo"
+        },
+        {
+          "key": "B",
+          "text": "1 mol sodium acetate"
+        },
+        {
+          "key": "C",
+          "text": "1 mol muối của acid béo"
+        },
+        {
+          "key": "D",
+          "text": "3 mol sodium acetate"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Thủy phân tripalmitin ((C15H31COO)3C3H5) trong dung dịch NaOH thu được alcohol có công thức là",
+      "options": [
+        {
+          "key": "A",
+          "text": "C2H4(OH)2"
+        },
+        {
+          "key": "B",
+          "text": "C2H5OH"
+        },
+        {
+          "key": "C",
+          "text": "CH3OH"
+        },
+        {
+          "key": "D",
+          "text": "C3H5(OH)3"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Thủy phân tristearin ((C17H35COO)3C3H5) trong dung dịch NaOH, thu được muối có công thức là",
+      "options": [
+        {
+          "key": "A",
+          "text": "C2H3COONa"
+        },
+        {
+          "key": "B",
+          "text": "HCOONa"
+        },
+        {
+          "key": "C",
+          "text": "C17H33COONa"
+        },
+        {
+          "key": "D",
+          "text": "C17H35COONa"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "text": "Xà phòng hóa chất nào sau đây thu được glycerol?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Benzyl acetate"
+        },
+        {
+          "key": "B",
+          "text": "Tristearin"
+        },
+        {
+          "key": "C",
+          "text": "Methyl formate"
+        },
+        {
+          "key": "D",
+          "text": "Methyl acetate"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "text": "Thủy phân hoàn toàn triglyceride X trong dung dịch NaOH thu được C15H31COONa và C3H5(OH)3. Công thức của X là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(C17H31COO)3C3H5"
+        },
+        {
+          "key": "B",
+          "text": "(C15H31COO)3C3H5"
+        },
+        {
+          "key": "C",
+          "text": "(C17H33COO)3C3H5"
+        },
+        {
+          "key": "D",
+          "text": "(C17H35COO)3C3H5"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Chất nào sau đây không phản ứng với H2 (xúc tác Ni, to)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vinyl acetate"
+        },
+        {
+          "key": "B",
+          "text": "Triolein"
+        },
+        {
+          "key": "C",
+          "text": "Tripalmitin"
+        },
+        {
+          "key": "D",
+          "text": "Glucose"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Chất nào sau đây không làm mất màu nước bromine?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Triolein"
+        },
+        {
+          "key": "B",
+          "text": "Phenol"
+        },
+        {
+          "key": "C",
+          "text": "Palmitic acid"
+        },
+        {
+          "key": "D",
+          "text": "Vinyl acetate"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Triolein không tác dụng với chất (hoặc dung dịch) nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "H2O (xúc tác H2SO4 loãng, đun nóng)"
+        },
+        {
+          "key": "B",
+          "text": "Cu(OH)2 (ở điều kiện thường)"
+        },
+        {
+          "key": "C",
+          "text": "Dung dịch NaOH (đun nóng)"
+        },
+        {
+          "key": "D",
+          "text": "H2 (xúc tác Ni, đun nóng)"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Cho sơ đồ chuyển hóa giữa các hợp chất hữu cơ:",
+      "options": [
+        {
+          "key": "A",
+          "text": "methyl palmitate"
+        },
+        {
+          "key": "B",
+          "text": "methyl linoleate"
+        },
+        {
+          "key": "C",
+          "text": "methyl stearate"
+        },
+        {
+          "key": "D",
+          "text": "methyl oleate"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Cho sơ đồ chuyển hóa: Triolein  E  T. Tên gọi của T là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sodium oleate"
+        },
+        {
+          "key": "B",
+          "text": "Sodium linoleate"
+        },
+        {
+          "key": "C",
+          "text": "Sodium stearate"
+        },
+        {
+          "key": "D",
+          "text": "Sodium palmitate"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "text": "Cho sơ đồ chuyển hóa: Triolein  E  T  G. Tên gọi của G là",
+      "options": [
+        {
+          "key": "A",
+          "text": "oleic acid"
+        },
+        {
+          "key": "B",
+          "text": "linoleic acid"
+        },
+        {
+          "key": "C",
+          "text": "stearic acid"
+        },
+        {
+          "key": "D",
+          "text": "palmitic acid"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "text": "Từ dầu thực vật làm thế nào để sản xuất được bơ nhân tạo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hydrogen hóa acid béo"
+        },
+        {
+          "key": "B",
+          "text": "Đề hydrogen hóa chất béo lỏng"
+        },
+        {
+          "key": "C",
+          "text": "Hydrogen hóa chất béo lỏng"
+        },
+        {
+          "key": "D",
+          "text": "Xà phòng hóa chất béo lỏng"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "text": "Một số ester được dùng trong hương liệu, mĩ phẩm, bột giặt là nhờ các ester",
+      "options": [
+        {
+          "key": "A",
+          "text": "là chất lỏng dễ bay hơi"
+        },
+        {
+          "key": "B",
+          "text": "có mùi thơm, an toàn với người"
+        },
+        {
+          "key": "C",
+          "text": "có thể bay hơi nhanh sau khi sử dụng"
+        },
+        {
+          "key": "D",
+          "text": "đều có nguồn gốc từ thiên nhiên"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "text": "Thành phần chính của xà phòng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "muối của acid béo"
+        },
+        {
+          "key": "B",
+          "text": "muối của acid vô cơ"
+        },
+        {
+          "key": "C",
+          "text": "muối sodium hoặc potassium của acid béo"
+        },
+        {
+          "key": "D",
+          "text": "muối sodium hoặc potassium của acid"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "text": "Thành phần chính của chất giặt rửa tổng hợp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "C15H31COONa"
+        },
+        {
+          "key": "B",
+          "text": "(C17H35COO)2Ca"
+        },
+        {
+          "key": "C",
+          "text": "CH3[CH2]11-C6H4-SO3Na"
+        },
+        {
+          "key": "D",
+          "text": "C17H35COOK"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "text": "Hợp chất nào dưới đây được sử dụng làm xà phòng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3COONa"
+        },
+        {
+          "key": "B",
+          "text": "CH3(CH2)14COONa"
+        },
+        {
+          "key": "C",
+          "text": "CH3(CH2)12COOCH3"
+        },
+        {
+          "key": "D",
+          "text": "CH3(CH2)5O(CH2)5CH3"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "text": "Phần kị nước trong xà phòng và chất giặt rửa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhóm carboxylate"
+        },
+        {
+          "key": "B",
+          "text": "nhóm sulfate"
+        },
+        {
+          "key": "C",
+          "text": "gốc hydrocarbon dài"
+        },
+        {
+          "key": "D",
+          "text": "nhóm sulfonate"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "text": "Phần ưa nước trong xà phòng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhóm carboxylate"
+        },
+        {
+          "key": "B",
+          "text": "nhóm sulfate"
+        },
+        {
+          "key": "C",
+          "text": "gốc hydrocarbon dài"
+        },
+        {
+          "key": "D",
+          "text": "nhóm sulfonate"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "text": "Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chất giặt rửa là những chất có tác dụng giống như xà phòng; được tổng hợp từ dầu mỏ"
+        },
+        {
+          "key": "B",
+          "text": "Chất giặt rửa là những chất có tác dụng làm sạch các vết bẩn trên bề mặt vật rắn"
+        },
+        {
+          "key": "C",
+          "text": "Chất giặt rửa là những chất khi dùng cùng với nước thì có tác dụng làm sạch các vết bẩn bám trên các vật thể"
+        },
+        {
+          "key": "D",
+          "text": "Chất giặt rửa là những chất khi dùng cùng với nước thì có tác dụng làm sạch các vết bẩn bám trên các vật rắn mà không gây ra phản ứng hóa học với các chất đó"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "text": "Cho các phát biểu sau:",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "text": "Nguyên nhân nào làm cho bồ kết có khả năng giặt rửa vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "trong bồ kết có chất khử mạnh"
+        },
+        {
+          "key": "B",
+          "text": "bồ kết có thành phần là ester của glycerol"
+        },
+        {
+          "key": "C",
+          "text": "trong bồ kết có những chất oxi hóa mạnh"
+        },
+        {
+          "key": "D",
+          "text": "bồ kết có những chất có cấu tạo kiểu đầu phân cực gắn với đuôi dài không phân cực"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "text": "Từ tristearin, người ta dùng phản ứng nào để điều chế ra xà phòng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phản ứng ester hoá"
+        },
+        {
+          "key": "B",
+          "text": "Phản ứng thuỷ phân ester trong môi trường acid"
+        },
+        {
+          "key": "C",
+          "text": "Phản ứng cộng hydrogen"
+        },
+        {
+          "key": "D",
+          "text": "Phản ứng thủy phân ester trong môi trường kiềm"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "text": "Chất giặt rửa tổng hợp có ưu điểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "dễ kiếm"
+        },
+        {
+          "key": "B",
+          "text": "rẻ tiền hơn xà phòng"
+        },
+        {
+          "key": "C",
+          "text": "có thể dùng để giặt rửa cả trong nước cứng"
+        },
+        {
+          "key": "D",
+          "text": "có khả năng hoà tan tốt trong nước"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "text": "Glucose và fructose thuộc loại carbohydrate nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Monosaccharide"
+        },
+        {
+          "key": "B",
+          "text": "Disaccharide"
+        },
+        {
+          "key": "C",
+          "text": "Polysaccharide"
+        },
+        {
+          "key": "D",
+          "text": "Oligosaccharide"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "text": "Chất phản ứng được với AgNO3/NH3, đun nóng tạo ra kim loại Ag là",
+      "options": [
+        {
+          "key": "A",
+          "text": "glucose"
+        },
+        {
+          "key": "B",
+          "text": "saccharose"
+        },
+        {
+          "key": "C",
+          "text": "cellulose"
+        },
+        {
+          "key": "D",
+          "text": "tinh bột"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "text": "Trong điều kiện thích hợp glucose lên men tạo thành khí CO2 và",
+      "options": [
+        {
+          "key": "A",
+          "text": "C2H5OH"
+        },
+        {
+          "key": "B",
+          "text": "CH3COOH"
+        },
+        {
+          "key": "C",
+          "text": "HCOOH"
+        },
+        {
+          "key": "D",
+          "text": "CH3CHO"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "text": "Để tráng một lớp bạc lên ruột phích, người ta cho chất X phản ứng với lượng dư dung dịch AgNO3 trong NH3, đun nóng. Chất X là",
+      "options": [
+        {
+          "key": "A",
+          "text": "ethyl acetate"
+        },
+        {
+          "key": "B",
+          "text": "glucose"
+        },
+        {
+          "key": "C",
+          "text": "tinh bột"
+        },
+        {
+          "key": "D",
+          "text": "saccharose"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "text": "Cho các phát biểu sau:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "text": "Phản ứng điều chế ethanol từ glucose theo phương trình hóa học C6H2O6  2C2H5OH + 2CO2 là phản ứng",
+      "options": [
+        {
+          "key": "A",
+          "text": "trùng ngưng"
+        },
+        {
+          "key": "B",
+          "text": "thủy phân"
+        },
+        {
+          "key": "C",
+          "text": "lên men"
+        },
+        {
+          "key": "D",
+          "text": "ester hóa"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "text": "Phát biểu nào sau đây về fructose không đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fructose có công thức phân tử C6H12O6"
+        },
+        {
+          "key": "B",
+          "text": "Fructose phản ứng được với Cu(OH)2 trong môi trường kiềm ở điều kiện thường"
+        },
+        {
+          "key": "C",
+          "text": "Fructose thuộc loại monosaccharide"
+        },
+        {
+          "key": "D",
+          "text": "Fructose làm mất màu nước bromine ở điều kiện thường"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "text": "Phát biểu nào sau đây về glucose không đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Glucose phản ứng được với thuốc thử Tollens"
+        },
+        {
+          "key": "B",
+          "text": "Glucose phản ứng được với nước bromine"
+        },
+        {
+          "key": "C",
+          "text": "Glucose có công thức phân tử C6H12O6"
+        },
+        {
+          "key": "D",
+          "text": "Glucose thuộc loại disaccharide"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "text": "Cho sơ đồ chuyển hoá: Glucose → X → Y → CH3COOH. Hai chất X, Y lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3CH2OH và CH2=CH2"
+        },
+        {
+          "key": "B",
+          "text": "CH3CHO và CH3CH2OH"
+        },
+        {
+          "key": "C",
+          "text": "CH3CH2OH và CH3CHO"
+        },
+        {
+          "key": "D",
+          "text": "CH3CH(OH)COOH và CH3CHO"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "text": "Khi cho dung dịch glucose vào ống nghiệm chứa Cu(OH)2/NaOH, lắc nhẹ ống nghiệm thì thấy có hiện tượng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kim loại màu vàng sáng bám trên bề mặt ống nghiệm"
+        },
+        {
+          "key": "B",
+          "text": "Kết tủa màu đỏ gạch xuất hiện trong ống nghiệm"
+        },
+        {
+          "key": "C",
+          "text": "Dung dịch trở nên đồng nhất và có màu xanh lam"
+        },
+        {
+          "key": "D",
+          "text": "Chất lỏng trong ống nghiệm tách thành hai lớp và xuất hiện kết tủa màu xanh nhạt lắng xuống đáy ống nghiệm"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "text": "Chất thuộc loại disaccharide là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tinh bột"
+        },
+        {
+          "key": "B",
+          "text": "glucose"
+        },
+        {
+          "key": "C",
+          "text": "frutose"
+        },
+        {
+          "key": "D",
+          "text": "maltose"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "text": "“Saccharose và ….(1)…… là hai disaccharide, có cùng công thức phân tử là ….(2)……”. Nội dung phù hợp điền vào ô trống (1), (2) lần luợt là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "cellulose (C6H10O5)n"
+        },
+        {
+          "key": "B",
+          "text": "maltose, C6H12O6"
+        },
+        {
+          "key": "C",
+          "text": "glucose, C6H12O6"
+        },
+        {
+          "key": "D",
+          "text": "maltose, C12H22O11"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "text": "Số nguyên tử oxygen trong phân tử saccharose là",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "text": "Carbohydrate nào dưới đây không có nhóm -OH hemiacetal (hoặc hemiketal)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "maltose"
+        },
+        {
+          "key": "B",
+          "text": "glucose"
+        },
+        {
+          "key": "C",
+          "text": "frutose"
+        },
+        {
+          "key": "D",
+          "text": "saccharose"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "text": "Chất nào sau đây không bị thủy phân khi đun nóng trong môi trường acid?",
+      "options": [
+        {
+          "key": "A",
+          "text": "maltose"
+        },
+        {
+          "key": "B",
+          "text": "glucose"
+        },
+        {
+          "key": "C",
+          "text": "triolein"
+        },
+        {
+          "key": "D",
+          "text": "saccharose"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "text": "Phát biểu nào sau đây không đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saccharose và fructose là đồng phân của nhau"
+        },
+        {
+          "key": "B",
+          "text": "Saccharose chỉ có cấu tạo dạng mạch vòng"
+        },
+        {
+          "key": "C",
+          "text": "Maltose có nhiều trong mạch nha"
+        },
+        {
+          "key": "D",
+          "text": "Saccharose và maltose đều thuộc loại disaccharide"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "text": "Carbohydrate X là một disacchride có nhiều trong củ cải đường. Thủy phân hoàn toàn X trong môi trường acid thu được Y có khả năng làm mất màu nước bromine. Phát biểu nào sau đây là đúng? ( Cho M: C=12; H=1; O=16)",
+      "options": [
+        {
+          "key": "A",
+          "text": "X có phản ứng tráng bạc"
+        },
+        {
+          "key": "B",
+          "text": "Y có phân tử khối bằng 342"
+        },
+        {
+          "key": "C",
+          "text": "Y tan tốt trong nước"
+        },
+        {
+          "key": "D",
+          "text": "Trong dung dịch, X tồn tại cả dạng mạch hở và dạng mở vòng"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "text": "Carbohydrate X có công thức cấu tạo cho dưới đây:",
+      "options": [
+        {
+          "key": "A",
+          "text": "X là saccharose"
+        },
+        {
+          "key": "B",
+          "text": "X không có tính khử"
+        },
+        {
+          "key": "C",
+          "text": "X được cấu tạo từ 1 đơn vị -glucose và 1 đơn vị β-fructose qua liên kết -1,4-glycoside"
+        },
+        {
+          "key": "D",
+          "text": "X còn gọi là đường mạch nha được sản xuất từ ngũ cốc"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "text": "Cho các phát biểu sau:",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "text": "Cho các nhận định về tính chất của saccharose:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "text": "Công thức phân tử của tinh bột là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(C6H12O6)n"
+        },
+        {
+          "key": "B",
+          "text": "C6H12O6"
+        },
+        {
+          "key": "C",
+          "text": "(C6H10O5)n"
+        },
+        {
+          "key": "D",
+          "text": "C12H22O11"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "text": "Công thức phân tử và công thức cấu tạo của cellulose lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(C6H12O6)n, [C6H7O2(OH)3]n"
+        },
+        {
+          "key": "B",
+          "text": "(C6H10O5)n, [C6H7O2(OH)3]n"
+        },
+        {
+          "key": "C",
+          "text": "[C6H7O2(OH)3]n, (C6H10O5)n"
+        },
+        {
+          "key": "D",
+          "text": "(C6H10O5)n, [C6H7O2(OH)2]n"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "text": "Cho dãy các chất: glucose, cellulose, saccharose, acetaldehyde, tinh bột. Số chất trong dãy tham gia phản ứng tráng gương là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "text": "Giữa tinh bột, saccharose, glucose có điểm chung là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đều tác dụng với Cu(OH)2 cho dung dịch xanh lam"
+        },
+        {
+          "key": "B",
+          "text": "chúng thuộc loại carbohydrate"
+        },
+        {
+          "key": "C",
+          "text": "đều bị thuỷ phân bởi dung dịch acid"
+        },
+        {
+          "key": "D",
+          "text": "đều không có phản ứng tráng bạc"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "text": "Phát biểu nào sau đây là sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tinh bột là polymer có cấu trúc dạng mạch phân nhánh và không phân nhánh"
+        },
+        {
+          "key": "B",
+          "text": "Tinh bột không phản ứng với dung dịch H2SO4 loãng, đun nóng"
+        },
+        {
+          "key": "C",
+          "text": "Tinh bột không tan trong nước lạnh"
+        },
+        {
+          "key": "D",
+          "text": "Thủy phân không hoàn toàn tinh bột có thể thu được dextrin và maltose"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "text": "Thủy phân hoàn toàn tinh bột, thu được monosaccharide X. Cho X phản ứng với dung dịch AgNO3 trong NH3 thu được chất hữu cơ Y. Hai chất X, Y lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "fructose, ammonium gluconate"
+        },
+        {
+          "key": "B",
+          "text": "glucose, gluconic acid"
+        },
+        {
+          "key": "C",
+          "text": "glucose, ammonium gluconate"
+        },
+        {
+          "key": "D",
+          "text": "glucose, bạc"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "text": "Để phân biệt tinh bột và cellulose có thể dùng",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cu(OH)2"
+        },
+        {
+          "key": "B",
+          "text": "dung dịch H2SO4,to"
+        },
+        {
+          "key": "C",
+          "text": "dung dịch I2"
+        },
+        {
+          "key": "D",
+          "text": "dung dịch NaOH"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "text": "Tinh bột, cellulose, saccharose đều có khả năng tham gia phản ứng",
+      "options": [
+        {
+          "key": "A",
+          "text": "hoà tan Cu(OH)2"
+        },
+        {
+          "key": "B",
+          "text": "trùng ngưng"
+        },
+        {
+          "key": "C",
+          "text": "thủy phân"
+        },
+        {
+          "key": "D",
+          "text": "tráng gương"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "text": "Phát biểu nào sau đây là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fructose có phản ứng tráng bạc, chứng tỏ phân tử fructose có nhóm –CHO"
+        },
+        {
+          "key": "B",
+          "text": "Thuỷ phân tinh bột thu được fructose và glucose"
+        },
+        {
+          "key": "C",
+          "text": "Thuỷ phân cellulose thu được glucose"
+        },
+        {
+          "key": "D",
+          "text": "Cả cellulose và tinh bột đều có phản ứng tráng bạc"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "text": "Cho các phát biểu sau đây",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "text": "Trong các chất dưới đây, chất nào là amine bậc hai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3NHCH3"
+        },
+        {
+          "key": "B",
+          "text": "CH3CH(CH3)NH2"
+        },
+        {
+          "key": "C",
+          "text": "H2N(CH2)6NH2"
+        },
+        {
+          "key": "D",
+          "text": "C6H5NH2"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "text": "Ethylamine có công thức cấu tạo là",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3NH2"
+        },
+        {
+          "key": "B",
+          "text": "C2H5NH2"
+        },
+        {
+          "key": "C",
+          "text": "CH3NHCH3"
+        },
+        {
+          "key": "D",
+          "text": "(CH3)3N"
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "text": "Dung dịch chất nào sau đây làm xanh giấy quỳ tím?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CH3COOH"
+        },
+        {
+          "key": "B",
+          "text": "C2H5NH2"
+        },
+        {
+          "key": "C",
+          "text": "C6H5NH2 (aniline)"
+        },
+        {
+          "key": "D",
+          "text": "HCl"
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "text": "Ethylamine tác dụng được với dung dịch nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "NaNO3"
+        },
+        {
+          "key": "B",
+          "text": "NaCl"
+        },
+        {
+          "key": "C",
+          "text": "HCl"
+        },
+        {
+          "key": "D",
+          "text": "Na2SO4"
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "text": "Methylamine phản ứng với dung dịch chất nào sao đây thu được kết tủa màu nâu đỏ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "NaCl"
+        },
+        {
+          "key": "B",
+          "text": "Ba(NO3)2"
+        },
+        {
+          "key": "C",
+          "text": "FeCl3"
+        },
+        {
+          "key": "D",
+          "text": "K2SO4"
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "text": "Khi cho alkylamine bậc một tác dụng với nitrous acid ở nhiệt độ thường thấy:",
+      "options": [
+        {
+          "key": "A",
+          "text": "xuất hiện kết tủa vàng"
+        },
+        {
+          "key": "B",
+          "text": "có sự phân tách lớp chất lỏng"
+        },
+        {
+          "key": "C",
+          "text": "có khí mùi khai thoát ra"
+        },
+        {
+          "key": "D",
+          "text": "có khí không màu bay lên"
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "text": "Số đồng phân amine ứng với công thức phân tử C3H9N là",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "text": "Cho dãy các chất: C2H5NH2, CH3NH2, CH3COOH, CH3NHCH3. Số chất trong dãy phản ứng với HCl trong dung dịch là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "text": "Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tất cả các amine đều làm quỳ tím ẩm chuyển màu xanh"
+        },
+        {
+          "key": "B",
+          "text": "Ở nhiệt độ thường, tất cả các amine đều tan nhiều trong nước"
+        },
+        {
+          "key": "C",
+          "text": "Để rửa sạch ống nghiệm có dính aniline, có thể dùng dung dịch HCl"
+        },
+        {
+          "key": "D",
+          "text": "Các amine đều không độc, được sử dụng trong chế biến thực phẩm"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "text": "Cho các phát biểu sau:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "trueFalse": [
+    {
+      "number": 1,
+      "text": "Cho tristearin phản ứng với dung dịch NaOH.",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Đây là phản ứng xà phòng hóa."
+        },
+        {
+          "key": "b",
+          "text": "Muối tạo thành là thành phần chính của xà phòng"
+        },
+        {
+          "key": "c",
+          "text": "Sản phẩm hữu cơ gồm glycerol và sodium oleate."
+        },
+        {
+          "key": "d",
+          "text": "Một mol tristearin phản ứng với một mol NaOH."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "So sánh xà phòng và chất giặt rửa tổng hợp trong giặt tẩy.",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Xà phòng dễ tạo kết tủa trong nước cứng."
+        },
+        {
+          "key": "b",
+          "text": "Chất giặt rửa tổng hợp thường hoạt động tốt hơn xà phòng trong nước cứng."
+        },
+        {
+          "key": "c",
+          "text": "Đầu phân cực giúp chất giặt rửa tương tác với nước."
+        },
+        {
+          "key": "d",
+          "text": "Tất cả các chất giặt rửa tổng hợp đều không gây tác động xấu đến môi trường."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Tiến hành thí nghiệm theo các bước sau:",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Ở bước 2, việc thêm nước cất để đảm bảo phản ứng thủy phân xảy ra thuận lợi."
+        },
+        {
+          "key": "b",
+          "text": "Ở bước 3, thêm dung dịch NaCl bão hòa là để tách muối của acid béo ra khỏi hỗn hợp."
+        },
+        {
+          "key": "c",
+          "text": "Trong thí nghiệm trên, có xảy ra phản ứng xà ester hóa."
+        },
+        {
+          "key": "d",
+          "text": "Sau bước 3, thấy có lớp chất rắn màu trắng nổi lên là glycerol."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Chất X có công thức phân tử C2H4O2 là một ester của formic acid.",
+      "statements": [
+        {
+          "key": "a",
+          "text": "X không thủy phân trong môi trường base."
+        },
+        {
+          "key": "b",
+          "text": "Nhiệt độ sôi của X thấp hơi nhiệt độ sôi của acetic acid."
+        },
+        {
+          "key": "c",
+          "text": "X có khả năng tham gia phản ứng tráng bạc"
+        },
+        {
+          "key": "d",
+          "text": "Đốt cháy hoàn toàn X thu được khối lượng CO2 bằng khối lượng nước."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Ethyl acetate là một ester được sử dụng làm dung môi để tách, chiết chất hữu cơ. Hợp chất này được điều chế từ acetic acid và ethanol theo phản ứng sau:",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Phản ứng trên được gọi là phản ứng xà phòng hóa."
+        },
+        {
+          "key": "b",
+          "text": "Nhiệt độ sôi của ethyl acetate cao hơn so với acetic acid và ethanol nên có thể tách ethyl acetate ra khỏi hỗn hợp với acetic acid và ethanol bằng phương pháp chưng cất."
+        },
+        {
+          "key": "c",
+          "text": "Nếu đun nóng ethyl acetate với dung dịch sodium hydroxide để phản ứng xảy ra hoàn toàn thì sau phản ứng thu được dung dịch đồng nhất."
+        },
+        {
+          "key": "d",
+          "text": "Nếu ban đầu cho 12 gam acetic acid phản ứng với 4,6 gam ethanol trong H2SO4 đặc, sau phản ứng thu được 5,72 gam ethyl acetate thì hiệu suất phản ứng là 62,5%. (Cho C = 12; H = 1; O = 16)."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Polysaccharide X được cấu tạo từ nhiều đơn vị glucose. Hình dưới đây mô tả cấu tạo phân tử X:",
+      "statements": [
+        {
+          "key": "a",
+          "text": "X có cấu trúc mạch phân nhánh."
+        },
+        {
+          "key": "b",
+          "text": "X được cấu tạo từ nhiều đơn vị -glucose qua liên kết -1,4-glycoside"
+        },
+        {
+          "key": "c",
+          "text": "X có thể bị thủy phân trong môi trường kiềm."
+        },
+        {
+          "key": "d",
+          "text": "X không tan trong nước lạnh nhưng tan trong nước nóng."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "Tiến hành các bước thí nghiệm như sau:",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Ở bước 1, xảy ra phản ứng thủy phân polysaccharide thành các đơn vị monosaccharide."
+        },
+        {
+          "key": "b",
+          "text": "Ở bước 2, dung dịch NaOH có tác dụng loại bỏ xúc tác acid."
+        },
+        {
+          "key": "c",
+          "text": "Sau bước 3, sản phẩm hữu cơ thu được là gluconic acid."
+        },
+        {
+          "key": "d",
+          "text": "Thí nghiệm trên chứng minh cellulose có phản ứng thủy phân."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Tiến hành thí nghiệm theo các bước sau:",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Sau bước 3, phần dung dịch thu được có màu xanh tím."
+        },
+        {
+          "key": "b",
+          "text": "Sau bước 1, thu được dung dịch chứa một loại monosaccharide."
+        },
+        {
+          "key": "c",
+          "text": "Mục đích của việc thêm NaOH là nhằm loại bỏ H2SO4 và tạo môi trường kiềm."
+        },
+        {
+          "key": "d",
+          "text": "Ở bước 3, xảy ra phản ứng tạo phức của glucose nên chứng minh glucose có tính chất của aldehyde."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "Tiến hành thí nghiệm theo các bước sau:",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Sau bước 3, phần dung dịch thu được có màu xanh lam."
+        },
+        {
+          "key": "b",
+          "text": "Sau bước 1, thu được dung dịch glucose trong môi trường acid."
+        },
+        {
+          "key": "c",
+          "text": "Ở bước 1, xảy ra phản ứng thủy phân tinh bột."
+        },
+        {
+          "key": "d",
+          "text": "Ở bước 3, xảy ra phản ứng tạo phức của glucose nên chứng minh glucose có tính khử."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Tiến hành thí nghiệm theo các bước sau:",
+      "statements": [
+        {
+          "key": "a",
+          "text": "Sau bước 3, sản phẩm thu được có thể là cellulose trinitrate."
+        },
+        {
+          "key": "b",
+          "text": "Trong thí nghiệm trên, có thể thay thế nhúm bông bằng hồ tinh bột."
+        },
+        {
+          "key": "c",
+          "text": "Sau bước 3, lấy sản phẩm thu được đốt cháy thấy có khói trắng xuất hiện."
+        },
+        {
+          "key": "d",
+          "text": "Thí nghiệm trên chứng minh trong mỗi phân tử cellulose có 3 nhóm hydroxy."
+        }
+      ]
+    }
+  ]
+}
